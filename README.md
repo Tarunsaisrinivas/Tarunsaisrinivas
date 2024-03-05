@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Allam Tarun Sai Srinivas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/q8gR7IwFO2iJlS2xmDCteMvNoeMo_I8S4v0ki3sU4u8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzI0MDEx/NDEvc2NyZWVuc2hv/dHMvNTQ4Nzk4Mi9t/ZWRpYS8wZWQyOGI3/MzRhNDJkMDZhOTZj/YzU3ZjVkNDc4NjI1/Yy5naWY_cmVzaXpl/PTQwMHgw.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/0ed28b734a42d06a96cc57f5d478625c.gif?resize=400x0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsaisrinivas&label=Profile%20views&color=0e75b6&style=flat" alt="tarunsaisrinivas" /> </p>
 
