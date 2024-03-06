@@ -1,5 +1,5 @@
-<center>[![MasterHead](https://thehackernews.com/images/-q9Y3RpxLa1A/YNroNYrRgVI/AAAAAAAADBc/_qVb6Lsyg94yU7yWCx_ei_XLfm5gvRd7QCLcBGAsYHQ/s0/android-dev.jpg)]
-</center> (https://github.com/Tarunsaisrinivas)
+[![MasterHead](https://thehackernews.com/images/-q9Y3RpxLa1A/YNroNYrRgVI/AAAAAAAADBc/_qVb6Lsyg94yU7yWCx_ei_XLfm5gvRd7QCLcBGAsYHQ/s0/android-dev.jpg)]
+ (https://github.com/Tarunsaisrinivas)
 
   <h1 align="center">Hi 👋, I'm Allam Tarun Sai Srinivas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
