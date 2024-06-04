@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [tarunsaisrinivas.vercel.app]([https://tarunsaisrinivas.vercel.app/])
+- 👨‍💻 All of my projects are available at [tarunsaisrinivas.vercel.app]((https://tarunsaisrinivas.vercel.app/))
 
 - 💬 Ask me about **React**
 
