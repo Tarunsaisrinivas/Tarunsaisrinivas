@@ -31,5 +31,6 @@
 
 
 //<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunsaisrinivas&show_icons=true&locale=en" alt="tarunsaisrinivas" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarunsaisrinivas)](https://github.com/Tarunsaisrinivas/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsaisrinivas&" alt="tarunsaisrinivas" /></p>
