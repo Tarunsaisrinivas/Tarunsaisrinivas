@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/tarunsaisrinivas)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))]
+(https://github.com/Tarunsaisrinivas)
 
 <h1 align="center">Hi 👋, I'm Allam Tarun Sai Srinivas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
