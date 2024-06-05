@@ -15,7 +15,8 @@
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **tarunsaisrinivas7@gmail.com**
-  - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_pdq2FAQH6O5cXMxaCpOnU3VeZd9mCb0/view)
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_pdq2FAQH6O5cXMxaCpOnU3VeZd9mCb0/view)
 
 
 <h3 align="left">Connect with me:</h3>
