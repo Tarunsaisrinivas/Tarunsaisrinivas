@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tarunsaisrinivas7@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_pdq2FAQH6O5cXMxaCpOnU3VeZd9mCb0/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AjinJGtEWWlLSbqxL8RbUT2xEzo5Y4Eo/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
