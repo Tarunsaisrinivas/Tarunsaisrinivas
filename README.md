@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/tarunsaisriniv1" target="blank"><img src="https://img.shields.io/twitter/follow/tarunsaisriniv1?logo=twitter&style=for-the-badge" alt="tarunsaisriniv1" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Vue Js**
 
 - 👨‍💻 All of my projects are available at [tarunsaisrinivas.site](https://tarunsaisrinivas.site/)
 
