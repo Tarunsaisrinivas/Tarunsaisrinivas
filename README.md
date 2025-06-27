@@ -6,7 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsaisrinivas&label=Profile%20views&color=0e75b6&style=flat" alt="tarunsaisrinivas" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tarunsaisriniv1" target="blank"><img src="https://img.shields.io/twitter/follow/tarunsaisriniv1?logo=twitter&style=for-the-badge" alt="tarunsaisriniv1" /></a> </p>
+<p align="left">
+<a href="https://instagram.com/tarunsaisrinivas" target="blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="tarunsaisrinivas" />
+  </a>
+</p>
+
 
 - 🌱 I’m currently learning **React Native**
 
