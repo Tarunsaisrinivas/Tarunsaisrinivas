@@ -12,7 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [tarunsaisrinivas.site](https://tarunsaisrinivas.site/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React and NextJs**
+  
+- 👩‍💻 Currently working on [React Cursor](https://github.com/Tarunsaisrinivas/React-Cursor)
 
 - 📫 How to reach me **tarunsaisrinivas7@gmail.com**
 
