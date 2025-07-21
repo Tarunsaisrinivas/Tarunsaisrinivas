@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsaisrinivas&label=Profile%20views&color=0e75b6&style=flat" alt="tarunsaisrinivas" /> </p>
 
 <p align="left">
-<a href="https://instagram.com/tarunsaisrinivas" target="blank">
+<a href="https://instagram.com/tarun_sai_srinivas" target="blank">
     <img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="tarunsaisrinivas" />
   </a>
 </p>
