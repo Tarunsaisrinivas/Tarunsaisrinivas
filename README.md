@@ -8,9 +8,8 @@
 
 <p align="left">
 <a href="https://instagram.com/tarun_sai_srinivas" target="blank">
-    <div>
     <img src="https://img.shields.io/badge/Follow%20on%20Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="tarunsaisrinivas" />
-    </div>
+    
     
   </a>
 </p>
@@ -40,7 +39,7 @@
 
 <p align="left">
     <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,nodejs,express,mongodb,firebase,tailwind,git,github,postman,python,figma,docker,linux,playwright" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,react-native,nodejs,express,mongodb,firebase,tailwind,git,github,postman,python,figma,docker,linux,playwright" />
 </div>
 </p>
 
