@@ -36,9 +36,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://skillicons.dev" target="_blank">
+
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,nodejs,express,mongodb,firebase,tailwind,git,github,postman,python,figma,docker,linux,playwright" />
-  </a>
+
 </p>
 
 
