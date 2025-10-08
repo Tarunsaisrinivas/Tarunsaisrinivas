@@ -39,7 +39,7 @@
 
 <p align="left">
     <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,react-native,nodejs,express,mongodb,firebase,tailwind,git,github,postman,python,figma,docker,linux,playwright" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,git,github,postman,python,figma,docker,linux,playwright" />
 </div>
 </p>
 
